@@ -1,2 +1,2 @@
 release: php artisan migrate --force
-vendor/bin/heroku-php-apache2 public/
+web: vendor/bin/heroku-php-apache2 public/
