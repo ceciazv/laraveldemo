@@ -8,8 +8,6 @@
 </head>
 <form method="POST"action="">
     <legend> <h2> Login </h2> </legend>
-       <fildset>
-           
            <input type="text" placeholder="Nome"name="nome"id="nome">
            <br>
            <input type="text" placeholder="Email"name="nasc"id="nasc">
